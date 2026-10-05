@@ -1,0 +1,7 @@
+Todays date:10/20/2030
+Customer Name: Adil
+Customer Address: Khulna
+Customer Account Type: C
+Old Balance:1000.000000
+Payment:500.000000
+New Balance:1500.000000

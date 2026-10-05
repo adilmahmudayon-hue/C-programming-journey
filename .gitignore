@@ -1,0 +1,26 @@
+# Compiled C/C++ files
+*.exe
+*.out
+*.o
+*.obj
+
+# Code::Blocks generated files
+*.depend
+*.layout
+*.cbp
+
+# Temporary files
+tempCodeRunnerFile.c
+tempCodeRunnerFile.cpp
+
+# VS Code
+.vscode/
+
+# Competitive programming helper files
+.cph/
+
+# Build folders
+bin/
+obj/
+Debug/
+Release/

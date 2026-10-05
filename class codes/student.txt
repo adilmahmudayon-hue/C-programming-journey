@@ -1,0 +1,4 @@
+Name: ADil
+Roll: 103
+Department: CSE
+Marks: 56.779999
